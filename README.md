@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Rodrigo Ramírez Zapata
+# Hi!
 
 I'm a **Cloud and Linux Engineer** with extensive experience in managing and deploying cloud-native applications. I specialize in designing scalable, secure, and highly available infrastructure across platforms like AWS, Azure, and on-premise environments. My passion lies in automation, DevOps, infrastructure as code, and Linux systems administration.
-
-Currently, I work at **Tata Consultancy Services (TCS)**, assigned to the **London Stock Exchange Group (LSEG)** project.
+Automation enthusiast who believes in investing time to automate tasks so we can focus on what truly matters.
 
 ---
 
